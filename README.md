@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rohitha 👋
 
-<!--
-**rohitharavindra08/rohitharavindra08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS in Electrical & Computer Engineering @ Brown University** | Harvard Cross-Registration
 
-Here are some ideas to get you started:
+I build things at the intersection of **AI, Robotics, and Computer Vision**. Currently working on vision-guided robotic manipulation at IGUS Robotics and exploring how LLMs can drive physical-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously: AI intern at **ISRO** (Indian Space Research Organisation) · Co-founded a robotics automation startup · Robotics research at NIT Raipur
+
+---
+## 🛠 Tech Stack
+
+**ML/DL:** PyTorch · TensorFlow · Keras · Scikit-learn · Hugging Face Transformers · LangChain  
+**Computer Vision:** OpenCV · YOLOv8 · 6D Pose Estimation · CNNs  
+**Robotics:** ROS2 · MoveIt2 · Gazebo · URDF · Kinematic Modeling  
+**Backend:** FastAPI · SQLAlchemy · Python  
+**Frontend:** Next.js · React · Streamlit  
+**Infra:** Docker · AWS · Git · Linux  
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitharavindramyla/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohitharavindramyla@gmail.com)
+
