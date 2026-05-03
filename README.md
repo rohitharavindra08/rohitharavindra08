@@ -1,8 +1,8 @@
-# Hi, I'm Rohitha 👋
+# Hey, I'm Rohitha Ravindra Myla 👋
 
 **MS in Electrical & Computer Engineering @ Brown University** | Harvard Cross-Registration
 
-I build things at the intersection of **AI, Robotics, and Computer Vision**. Currently working on vision-guided robotic manipulation at IGUS Robotics and exploring how LLMs can drive physical-world systems.
+I build things at the intersection of **AI and Robotics**. Currently working on vision-guided robotic manipulation at IGUS Robotics and exploring how LLMs can drive physical-world systems.
 
 Previously: AI intern at **ISRO** (Indian Space Research Organisation) · Co-founded a robotics automation startup · Robotics research at NIT Raipur
 
